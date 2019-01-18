@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>MCSharpen</string>
+	<string>MCClarity</string>
+	<string>MCStructure</string>
+	<string>MCPaletteHSL</string>
+	<string>MCToneCurve</string>
+	<string>MCRGBCurve</string>
+	<string>MCCMYKCurve</string>
+	<string>MCExposure</string>
+	<string>MCBrightness</string>
+	<string>MCContrast</string>
+	<string>MCSaturation</string>
+	<string>MCTemperature</string>
+	<string>MCTint</string>
+	<string>MCFade</string>
+	<string>MCSplitTone</string>
+	<string>MCHighlights</string>
+	<string>MCShadows</string>
+	<string>MCFilmGrain</string>
+	<string>MCVignette</string>
+</array>
+</plist>
